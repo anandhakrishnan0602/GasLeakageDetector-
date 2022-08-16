@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Gas leakage detector\\gas lekage detector\\gas_leakage\\build\\firebase_database\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Kannan\\.gradle\\caches\\transforms-2\\files-2.1\\1c0769389455a4c14b7a50bc2530cb4a\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "E:\\Gas leakage detector\\gas lekage detector\\gas_leakage\\build\\firebase_database\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Kannan\\.gradle\\caches\\transforms-2\\files-2.1\\1c0769389455a4c14b7a50bc2530cb4a\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Gas leakage detector\\gas lekage detector\\gas_leakage\\build\\firebase_database\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Kannan\\.gradle\\caches\\transforms-2\\files-2.1\\1c0769389455a4c14b7a50bc2530cb4a\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

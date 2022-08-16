@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/gas_leakage/BuildConfig.java
+ com.example.gas_leakage.BuildConfig

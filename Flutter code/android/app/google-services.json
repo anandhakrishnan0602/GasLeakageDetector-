@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "39048122283",
+    "firebase_url": "https://gas-leakage-detector-548e1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gas-leakage-detector-548e1",
+    "storage_bucket": "gas-leakage-detector-548e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39048122283:android:85b25e283c2047f9728cee",
+        "android_client_info": {
+          "package_name": "com.example.gas_leakage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39048122283-u2a6juo1v28rsh1s6bk50ii49brgkm52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb1bRQPTDyuuGrt7sSfvd8KC2xwMlxERI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39048122283-u2a6juo1v28rsh1s6bk50ii49brgkm52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39048122283:android:c808d077a7b65c9f728cee",
+        "android_client_info": {
+          "package_name": "com.group4.gas_leakage_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39048122283-u2a6juo1v28rsh1s6bk50ii49brgkm52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb1bRQPTDyuuGrt7sSfvd8KC2xwMlxERI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39048122283-u2a6juo1v28rsh1s6bk50ii49brgkm52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

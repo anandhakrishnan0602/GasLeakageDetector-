@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">39048122283-u2a6juo1v28rsh1s6bk50ii49brgkm52.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gas-leakage-detector-548e1-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">39048122283</string>
+    <string name="google_api_key" translatable="false">AIzaSyBb1bRQPTDyuuGrt7sSfvd8KC2xwMlxERI</string>
+    <string name="google_app_id" translatable="false">1:39048122283:android:85b25e283c2047f9728cee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBb1bRQPTDyuuGrt7sSfvd8KC2xwMlxERI</string>
+    <string name="google_storage_bucket" translatable="false">gas-leakage-detector-548e1.appspot.com</string>
+    <string name="project_id" translatable="false">gas-leakage-detector-548e1</string>
+</resources>
